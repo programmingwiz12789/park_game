@@ -1,0 +1,16 @@
+D:\My Data\Personal Projects\Park Game\Park Game\obj\Debug\net8.0-windows\Park_Game.ParkGame.resources
+D:\My Data\Personal Projects\Park Game\Park Game\obj\Debug\net8.0-windows\Park Game.vbproj.GenerateResource.cache
+D:\My Data\Personal Projects\Park Game\Park Game\obj\Debug\net8.0-windows\Park Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Data\Personal Projects\Park Game\Park Game\obj\Debug\net8.0-windows\Park Game.AssemblyInfoInputs.cache
+D:\My Data\Personal Projects\Park Game\Park Game\obj\Debug\net8.0-windows\Park Game.AssemblyInfo.vb
+D:\My Data\Personal Projects\Park Game\Park Game\obj\Debug\net8.0-windows\Park Game.vbproj.CoreCompileInputs.cache
+D:\My Data\Personal Projects\Park Game\Park Game\bin\Debug\net8.0-windows\Park Game.exe
+D:\My Data\Personal Projects\Park Game\Park Game\bin\Debug\net8.0-windows\Park Game.deps.json
+D:\My Data\Personal Projects\Park Game\Park Game\bin\Debug\net8.0-windows\Park Game.runtimeconfig.json
+D:\My Data\Personal Projects\Park Game\Park Game\bin\Debug\net8.0-windows\Park Game.dll
+D:\My Data\Personal Projects\Park Game\Park Game\bin\Debug\net8.0-windows\Park Game.pdb
+D:\My Data\Personal Projects\Park Game\Park Game\obj\Debug\net8.0-windows\Park Game.dll
+D:\My Data\Personal Projects\Park Game\Park Game\obj\Debug\net8.0-windows\refint\Park Game.dll
+D:\My Data\Personal Projects\Park Game\Park Game\obj\Debug\net8.0-windows\Park Game.pdb
+D:\My Data\Personal Projects\Park Game\Park Game\obj\Debug\net8.0-windows\Park Game.genruntimeconfig.cache
+D:\My Data\Personal Projects\Park Game\Park Game\obj\Debug\net8.0-windows\ref\Park Game.dll
